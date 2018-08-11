@@ -1,6 +1,4 @@
 
-//console.log(module);
-
 const fs= require('fs');
 
 const fetchNotes= ()=> {
